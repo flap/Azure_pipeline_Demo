@@ -1,0 +1,5 @@
+test
+zj_test/*.test.js
+-s 1000
+-t 2000
+--recursive

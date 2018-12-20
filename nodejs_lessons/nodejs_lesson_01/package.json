@@ -1,0 +1,19 @@
+{
+  "name": "nodejs_project_01",
+  "version": "1.0.0",
+  "description": "First nodejs demo project refer to GitHub lesson2.",
+  "main": "app.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "author": "vieira",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "iconv-lite": "^0.4.15",
+    "jade": "^1.11.0",
+    "lodash": "^4.17.4",
+    "underscore": "^1.8.3",
+    "utility": "^1.8.0"
+  }
+}

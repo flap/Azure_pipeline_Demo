@@ -1,0 +1,14 @@
+{
+  "name": "nodejs_socket_demo",
+  "version": "1.0.0",
+  "description": "Nodejs socket demo.",
+  "main": "app.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "author": "vieira",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^1.7.3"
+  }
+}

@@ -1,0 +1,19 @@
+//
+   Created by zhengjin on 2017/1/20.
+
+doctype html
+html
+    head
+        title express and jade demo
+    body
+        div(style="background-color:#FFCCDD;") if usage<br>
+            if info
+                span info has value<br>
+        div(style="background-color:#CCFFDD;") jade usage
+            h5 #get into text: #{info}
+            h5 !get into text: !{info}
+            h5 get into text:
+                = info
+        div(style="background-color:#DDFFCC;") each usage
+            - each per, idx in persons
+                h5 name: #{per.name} age: #{per.age} sex: #{per.sex}

@@ -1,0 +1,76 @@
+//
+   Created by zhengjin on 2017/1/20.
+
+doctype html
+html
+    head
+        title Jade statment demo
+    body
+        // run at server
+        - console.log('jade demo started.')
+        div(class="my_div_demo") <b>demo01</b>, var expr
+            - var scr = "<script></script>"
+            div scr=
+                = scr
+            div scr!=
+                != scr
+            div scr
+                scr
+        div(class="my_div_demo") demo02_1, if statement
+            - var title = "express"
+            - if (title == "express")
+                div.
+                    Welcome to #{title},
+                this is another row in div.
+            - else
+                div another line.
+        div(class="my_div_demo") demo02_2, if statement
+            if (title == "express")
+                div.
+                    Welcome to #{title},
+                this is another row in div.
+            else
+                div another line.
+        div(class="my_div_demo") demo 03_1, for statement
+            - var num = 0
+            - for (; num < 5; num++)
+                div num= #{num}
+            div At last, the num = #{num}
+        div(class="my_div_demo") demo 03_2, for in statement
+            - var obj = {a:"111",b:"222",c:"333",d:"444"};
+            for value, key in obj
+                div The key is #{key}, and the value is #{value}.
+        div(class="my_div_demo") demo 04, maxin
+            - var myNum = 0
+            mixin node
+                div The number in mixin node is #{myNum++}
+            - for (var i = 0; i < 3; i++)
+                +node()
+            div At last, the number in mixin node is #{myNum++}
+        div <b>end demo</b>
+        script(type="text/javascript").
+            'use strict';
+            var getElementsByClass = function(tagName, className) {
+                var retDivs = [];
+                var allDivs = document.getElementsByTagName(tagName);
+                for (var idx = 0, length = allDivs.length; idx < length; idx++) {
+                    if (allDivs[idx].className === className) {
+                        retDivs.push(allDivs[idx]);
+                    }
+                }
+                return retDivs;
+            };
+            var setBackgroundForMyDivs = function() {
+                var allMyDivs = getElementsByClass('div', 'my_div_demo');
+                for (var idx = 0, length = allMyDivs.length; idx < length; idx++) {
+                    if (idx % 2 === 0) {
+                        allMyDivs[idx].style.background = "#FFCCDD";
+                        continue;
+                    }
+                    allMyDivs[idx].style.background = "#CCFFDD";
+                }
+            };
+
+            setBackgroundForMyDivs();
+//
+    end

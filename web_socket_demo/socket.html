@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="http://localhost:8001/jquery.js"></script>
+    <title>ZJ socket demo</title>
+</head>
+<body>
+<script>
+    // build socket connection
+    var socket = io.connect();
+
+    // receive data from server
+    socket.on('message', function (data) {
+        console.log(data.message);
+    });
+
+    socket.on('cur_date', function (data) {
+        $('#date').text(data.date);
+    });
+
+    // send data to server
+    $(document).ready(function () {
+        $('#text').keypress(function (e) {
+            socket.emit('client_data', {'letter': String.fromCharCode(e.charCode)});
+        });
+    });
+</script>
+<div id="date">current date time</div>
+<label for="text">Input Text: </label>
+<textarea id="text"></textarea>
+</body>
+</html>

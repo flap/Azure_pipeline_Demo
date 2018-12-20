@@ -1,0 +1,15 @@
+{
+  "name": "nodejs_js_jade_sample",
+  "version": "1.0.0",
+  "description": "Nodejs Jade sample.",
+  "main": "app.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "author": "vieira",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "jade": "^1.11.0"
+  }
+}

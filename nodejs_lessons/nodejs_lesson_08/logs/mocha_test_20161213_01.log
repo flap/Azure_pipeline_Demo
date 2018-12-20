@@ -1,0 +1,2360 @@
+
+
+  Verify YaHoo weather data for city 北京
+    √ test response status code is 200 (1374ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 海淀
+    √ test response status code is 200 (2341ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 朝阳
+    √ test response status code is 200 (1286ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 顺义
+    √ test response status code is 200 (1323ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 怀柔
+    √ test response status code is 200 (1291ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 通州
+    √ test response status code is 200 (1309ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 昌平
+    √ test response status code is 200 (1318ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 延庆
+    √ test response status code is 200 (1331ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 丰台
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 石景山
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 大兴
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 房山
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 密云
+    √ test response status code is 200 (1916ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 门头沟
+    √ test response status code is 200 (1354ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 平谷
+    √ test response status code is 200 (1308ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 上海
+    √ test response status code is 200 (1264ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 闵行
+    √ test response status code is 200 (2263ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 宝山
+    √ test response status code is 200 (2948ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 嘉定
+    √ test response status code is 200 (1325ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 浦东南汇
+    √ test response status code is 200 (4504ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 金山
+    √ test response status code is 200 (1283ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 青浦
+    √ test response status code is 200 (2141ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 松江
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 奉贤
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 崇明
+    √ test response status code is 200 (1268ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 徐家汇
+    √ test response status code is 200 (1369ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 浦东
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 天津
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 武清
+    √ test response status code is 200 (1724ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 宝坻
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 东丽
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 西青
+    √ test response status code is 200 (1261ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 北辰
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 宁河
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 汉沽
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 静海
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 津南
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 塘沽
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 大港
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 蓟县
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 重庆
+    √ test response status code is 200 (1176ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 永川
+    √ test response status code is 200 (1298ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 合川
+    √ test response status code is 200 (1639ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 南川
+    √ test response status code is 200 (1078ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 江津
+    √ test response status code is 200 (1096ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 万盛
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 渝北
+    √ test response status code is 200 (1699ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 北碚
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 巴南
+    √ test response status code is 200 (1049ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 长寿
+    √ test response status code is 200 (1270ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 黔江
+    √ test response status code is 200 (1312ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 万州
+    √ test response status code is 200 (1331ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 涪陵
+    √ test response status code is 200 (1328ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 开县
+    √ test response status code is 200 (1339ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 城口
+    1) test response status code is 200
+    2) test response body, count is 1
+    3) test response body, title is not null
+    4) test response body, forecast items size is greater or equal than 5
+    5) test response body, current date
+
+  Verify YaHoo weather data for city 云阳
+    √ test response status code is 200 (1308ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 巫溪
+    √ test response status code is 200 (1235ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 奉节
+    √ test response status code is 200 (2362ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 巫山
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 潼南
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 垫江
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 梁平
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 忠县
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 石柱
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 大足
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 荣昌
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 铜梁
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 璧山
+    √ test response status code is 200 (1254ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 丰都
+    √ test response status code is 200 (1270ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 武隆
+    √ test response status code is 200 (1266ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 彭水
+    √ test response status code is 200 (1323ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 綦江
+    √ test response status code is 200 (1312ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 酉阳
+    √ test response status code is 200 (1305ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 秀山
+    √ test response status code is 200 (1269ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 哈尔滨
+    √ test response status code is 200 (1308ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 双城
+    √ test response status code is 200 (1328ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 呼兰
+    √ test response status code is 200 (1307ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 阿城
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 宾县
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 依兰
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 巴彦
+    √ test response status code is 200 (2234ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 通河
+    √ test response status code is 200 (1245ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 方正
+    √ test response status code is 200 (3594ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 延寿
+    √ test response status code is 200 (1322ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 尚志
+    √ test response status code is 200 (1314ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 五常
+    √ test response status code is 200 (1269ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 木兰
+    √ test response status code is 200 (1305ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 齐齐哈尔
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 讷河
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 龙江
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 甘南
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 富裕
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 依安
+    √ test response status code is 200 (2944ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 拜泉
+    √ test response status code is 200 (4731ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 克山
+    √ test response status code is 200 (3090ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 克东
+    6) test response status code is 200
+    7) test response body, count is 1
+    8) test response body, title is not null
+    9) test response body, forecast items size is greater or equal than 5
+    10) test response body, current date
+
+  Verify YaHoo weather data for city 泰来
+    √ test response status code is 200 (2380ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 牡丹江
+    √ test response status code is 200 (1656ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 海林
+    √ test response status code is 200 (4573ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 穆棱
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 林口
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 绥芬河
+    √ test response status code is 200 (1131ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 宁安
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 东宁
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 佳木斯
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 汤原
+    √ test response status code is 200 (1570ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 抚远
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 桦川
+    √ test response status code is 200 (1256ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 桦南
+    √ test response status code is 200 (3964ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 同江
+    √ test response status code is 200 (2454ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 富锦
+    √ test response status code is 200 (1191ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 绥化
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 肇东
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 安达
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 海伦
+    √ test response status code is 200 (1367ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 明水
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 望奎
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 兰西
+    √ test response status code is 200 (1153ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 青冈
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 庆安
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 绥棱
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 黑河
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 嫩江
+    √ test response status code is 200 (1489ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 孙吴
+    √ test response status code is 200 (1831ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 逊克
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 五大连池
+    √ test response status code is 200 (1379ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 北安
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 大兴安岭
+    √ test response status code is 200 (2013ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 塔河
+    √ test response status code is 200 (1694ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 漠河
+    √ test response status code is 200 (1448ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 呼玛
+    √ test response status code is 200 (2370ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 呼中
+    √ test response status code is 200 (2544ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 新林
+    √ test response status code is 200 (3172ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 加格达奇
+    √ test response status code is 200 (1785ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 伊春
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 乌伊岭
+    11) test response status code is 200
+    12) test response body, count is 1
+    13) test response body, title is not null
+    14) test response body, forecast items size is greater or equal than 5
+    15) test response body, current date
+
+  Verify YaHoo weather data for city 五营
+    √ test response status code is 200 (2009ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 铁力
+    √ test response status code is 200 (1982ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 嘉荫
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 大庆
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 林甸
+    √ test response status code is 200 (1034ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 肇州
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 肇源
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 杜尔伯特
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 七台河
+    √ test response status code is 200 (2633ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 勃利
+    √ test response status code is 200 (1932ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 鸡西
+    √ test response status code is 200 (4403ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 虎林
+    √ test response status code is 200 (2693ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 密山
+    √ test response status code is 200 (2472ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 鸡东
+    √ test response status code is 200 (2841ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 鹤岗
+    √ test response status code is 200 (3710ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 绥滨
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 萝北
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 双鸭山
+    √ test response status code is 200 (2199ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 集贤
+    √ test response status code is 200 (2444ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 宝清
+    √ test response status code is 200 (1834ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 饶河
+    √ test response status code is 200 (1604ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 友谊
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 长春
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 农安
+    √ test response status code is 200 (2380ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 德惠
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 九台
+    √ test response status code is 200 (2934ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 榆树
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 双阳
+    √ test response status code is 200 (1430ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 吉林
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 舒兰
+    16) test response status code is 200
+    17) test response body, count is 1
+    18) test response body, title is not null
+    19) test response body, forecast items size is greater or equal than 5
+    20) test response body, current date
+
+  Verify YaHoo weather data for city 永吉
+    √ test response status code is 200 (2541ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 蛟河
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 磐石
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 桦甸
+    √ test response status code is 200 (1465ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 延吉
+    √ test response status code is 200 (1693ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 敦化
+    √ test response status code is 200 (1350ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 安图
+    √ test response status code is 200 (2467ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 汪清
+    √ test response status code is 200 (1159ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 和龙
+    √ test response status code is 200 (1368ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 龙井
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 珲春
+    √ test response status code is 200 (1467ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 图们
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 四平
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 双辽
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 梨树
+    √ test response status code is 200 (1172ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 公主岭
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 伊通
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 通化
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 梅河口
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 柳河
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 辉南
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 集安
+    √ test response status code is 200 (1113ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 通化县
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 白城
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 洮南
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 大安
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 镇赉
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 通榆
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 辽源
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 东丰
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 东辽
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 松原
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 乾安
+    √ test response status code is 200 (2263ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 前郭
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 长岭
+    √ test response status code is 200 (1310ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 扶余
+    √ test response status code is 200 (1094ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 白山
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 靖宇
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 临江
+    √ test response status code is 200 (1883ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 东岗
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 长白
+    √ test response status code is 200 (1277ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 抚松
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 江源
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 沈阳
+    √ test response status code is 200 (1481ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 辽中
+    √ test response status code is 200 (1068ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 康平
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 法库
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 新民
+    √ test response status code is 200 (2384ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 大连
+    √ test response status code is 200 (1480ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 瓦房店
+    √ test response status code is 200 (2199ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 金州
+    √ test response status code is 200 (1804ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 普兰店
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 旅顺
+    21) test response status code is 200
+    22) test response body, count is 1
+    23) test response body, title is not null
+    24) test response body, forecast items size is greater or equal than 5
+    25) test response body, current date
+
+  Verify YaHoo weather data for city 长海
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 庄河
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 鞍山
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 台安
+    √ test response status code is 200 (2112ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 岫岩
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 海城
+    √ test response status code is 200 (1270ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 抚顺
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 新宾
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 清原
+    √ test response status code is 200 (1496ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 章党
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 本溪
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 本溪县
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 桓仁
+    √ test response status code is 200 (2257ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 丹东
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 凤城
+    √ test response status code is 200 (1166ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 宽甸
+    √ test response status code is 200 (1545ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 东港
+    √ test response status code is 200 (1721ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 锦州
+    √ test response status code is 200 (1095ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 凌海
+    26) test response status code is 200
+    27) test response body, count is 1
+    28) test response body, title is not null
+    29) test response body, forecast items size is greater or equal than 5
+    30) test response body, current date
+
+  Verify YaHoo weather data for city 义县
+    √ test response status code is 200 (2939ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 黑山
+    √ test response status code is 200 (1443ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 北镇
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 营口
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 大石桥
+    √ test response status code is 200 (1231ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 盖州
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 阜新
+    √ test response status code is 200 (1066ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 彰武
+    √ test response status code is 200 (3639ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 辽阳
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 辽阳县
+    √ test response status code is 200 (1828ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 灯塔
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 弓长岭
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 铁岭
+    √ test response status code is 200 (1550ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 开原
+    √ test response status code is 200 (1864ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 昌图
+    √ test response status code is 200 (1587ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 西丰
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 调兵山
+    √ test response status code is 200 (3319ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 朝阳
+    √ test response status code is 200 (1979ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 凌源
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 喀左
+    √ test response status code is 200 (1178ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 北票
+    √ test response status code is 200 (1063ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 建平县
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 盘锦
+    √ test response status code is 200 (1766ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 大洼
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 盘山
+    √ test response status code is 200 (1955ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 葫芦岛
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 建昌
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 绥中
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 兴城
+    √ test response status code is 200 (1252ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 呼和浩特
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 土左旗
+    √ test response status code is 200 (1069ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 托县
+    31) test response status code is 200
+    32) test response body, count is 1
+    33) test response body, title is not null
+    34) test response body, forecast items size is greater or equal than 5
+    35) test response body, current date
+
+  Verify YaHoo weather data for city 和林
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 清水河
+    √ test response status code is 200 (1433ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 呼市郊区
+    √ test response status code is 200 (3390ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 武川
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 包头
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 白云鄂博
+    √ test response status code is 200 (1163ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 满都拉
+    √ test response status code is 200 (1103ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 土右旗
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 固阳
+    √ test response status code is 200 (1980ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 达茂旗
+    √ test response status code is 200 (2646ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 希拉穆仁
+    √ test response status code is 200 (1367ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 乌海
+    √ test response status code is 200 (1701ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 集宁
+    √ test response status code is 200 (3064ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 卓资
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 化德
+    √ test response status code is 200 (1792ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 商都
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 兴和
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 凉城
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 察右前旗
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 察右中旗
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 察右后旗
+    36) test response status code is 200
+    37) test response body, count is 1
+    38) test response body, title is not null
+    39) test response body, forecast items size is greater or equal than 5
+    40) test response body, current date
+
+  Verify YaHoo weather data for city 四子王旗
+    √ test response status code is 200 (1173ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 丰镇
+    √ test response status code is 200 (1310ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 通辽
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 舍伯吐
+    41) test response status code is 200
+    42) test response body, count is 1
+    43) test response body, title is not null
+    44) test response body, forecast items size is greater or equal than 5
+    45) test response body, current date
+
+  Verify YaHoo weather data for city 科左中旗
+    √ test response status code is 200 (1288ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 科左后旗
+    √ test response status code is 200 (3527ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 青龙山
+    √ test response status code is 200
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 开鲁
+    √ test response status code is 200 (1040ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+  Verify YaHoo weather data for city 库伦
+    √ test response status code is 200 (4301ms)
+    √ test response body, count is 1
+    √ test response body, title is not null
+    √ test response body, forecast items size is greater or equal than 5
+    √ test response body, current date
+
+
+  1455 passing (7m)
+  45 failing
+
+  1) Verify YaHoo weather data for city 城口 test response status code is 200:
+     Error: timeout of 5000ms exceeded. Ensure the done() callback is being called in this test.
+  
+
+  2) Verify YaHoo weather data for city 城口 test response body, count is 1:
+     TypeError: Cannot read property 'query' of undefined
+      at Context.<anonymous> (api_test\yahoo_api.test.js:58:27)
+
+  3) Verify YaHoo weather data for city 城口 test response body, title is not null:
+     TypeError: Cannot read property 'title' of undefined
+      at Context.<anonymous> (api_test\yahoo_api.test.js:62:27)
+
+  4) Verify YaHoo weather data for city 城口 test response body, forecast items size is greater or equal than 5:
+     TypeError: Cannot read property 'forecast' of undefined
+      at Context.<anonymous> (api_test\yahoo_api.test.js:66:27)
+
+  5) Verify YaHoo weather data for city 城口 test response body, current date:
+     TypeError: Cannot read property 'forecast' of undefined
+      at Context.<anonymous> (api_test\yahoo_api.test.js:70:27)
+
+  6) Verify YaHoo weather data for city 克东 test response status code is 200:
+     Error: timeout of 5000ms exceeded. Ensure the done() callback is being called in this test.
+  
+
+  7) Verify YaHoo weather data for city 克东 test response body, count is 1:
+     TypeError: Cannot read property 'query' of undefined
+      at Context.<anonymous> (api_test\yahoo_api.test.js:58:27)
+
+  8) Verify YaHoo weather data for city 克东 test response body, title is not null:
+     TypeError: Cannot read property 'title' of undefined
+      at Context.<anonymous> (api_test\yahoo_api.test.js:62:27)
+
+  9) Verify YaHoo weather data for city 克东 test response body, forecast items size is greater or equal than 5:
+     TypeError: Cannot read property 'forecast' of undefined
+      at Context.<anonymous> (api_test\yahoo_api.test.js:66:27)
+
+  10) Verify YaHoo weather data for city 克东 test response body, current date:
+     TypeError: Cannot read property 'forecast' of undefined
+      at Context.<anonymous> (api_test\yahoo_api.test.js:70:27)
+
+  11) Verify YaHoo weather data for city 乌伊岭 test response status code is 200:
+     Uncaught TypeError: Cannot read property 'channel' of null
+      at api_test\yahoo_api.test.js:52:68
+      at Request.callback (node_modules\superagent\lib\node\index.js:619:12)
+      at node_modules\superagent\lib\node\index.js:795:18
+      at IncomingMessage.<anonymous> (node_modules\superagent\lib\node\parsers\json.js:16:7)
+      at endReadableNT (_stream_readable.js:921:12)
+
+  12) Verify YaHoo weather data for city 乌伊岭 test response body, count is 1:
+
+      AssertionError: expected 0 to be 1
+      + expected - actual
+
+      -0
+      +1
+      
+      at Assertion.fail (node_modules\should\cjs\should.js:231:17)
+      at Assertion.Object.defineProperty.value (node_modules\should\cjs\should.js:305:19)
+      at Context.<anonymous> (api_test\yahoo_api.test.js:58:53)
+
+  13) Verify YaHoo weather data for city 乌伊岭 test response body, title is not null:
+     TypeError: Cannot read property 'title' of undefined
+      at Context.<anonymous> (api_test\yahoo_api.test.js:62:27)
+
+  14) Verify YaHoo weather data for city 乌伊岭 test response body, forecast items size is greater or equal than 5:
+     TypeError: Cannot read property 'forecast' of undefined
+      at Context.<anonymous> (api_test\yahoo_api.test.js:66:27)
+
+  15) Verify YaHoo weather data for city 乌伊岭 test response body, current date:
+     TypeError: Cannot read property 'forecast' of undefined
+      at Context.<anonymous> (api_test\yahoo_api.test.js:70:27)
+
+  16) Verify YaHoo weather data for city 舒兰 test response status code is 200:
+     Error: timeout of 5000ms exceeded. Ensure the done() callback is being called in this test.
+  
+
+  17) Verify YaHoo weather data for city 舒兰 test response body, count is 1:
+     TypeError: Cannot read property 'query' of undefined
+      at Context.<anonymous> (api_test\yahoo_api.test.js:58:27)
+
+  18) Verify YaHoo weather data for city 舒兰 test response body, title is not null:
+     TypeError: Cannot read property 'title' of undefined
+      at Context.<anonymous> (api_test\yahoo_api.test.js:62:27)
+
+  19) Verify YaHoo weather data for city 舒兰 test response body, forecast items size is greater or equal than 5:
+     TypeError: Cannot read property 'forecast' of undefined
+      at Context.<anonymous> (api_test\yahoo_api.test.js:66:27)
+
+  20) Verify YaHoo weather data for city 舒兰 test response body, current date:
+     TypeError: Cannot read property 'forecast' of undefined
+      at Context.<anonymous> (api_test\yahoo_api.test.js:70:27)
+
+  21) Verify YaHoo weather data for city 旅顺 test response status code is 200:
+     Uncaught TypeError: Cannot read property 'channel' of null
+      at api_test\yahoo_api.test.js:52:68
+      at Request.callback (node_modules\superagent\lib\node\index.js:619:12)
+      at node_modules\superagent\lib\node\index.js:795:18
+      at IncomingMessage.<anonymous> (node_modules\superagent\lib\node\parsers\json.js:16:7)
+      at endReadableNT (_stream_readable.js:921:12)
+
+  22) Verify YaHoo weather data for city 旅顺 test response body, count is 1:
+
+      AssertionError: expected 0 to be 1
+      + expected - actual
+
+      -0
+      +1
+      
+      at Assertion.fail (node_modules\should\cjs\should.js:231:17)
+      at Assertion.Object.defineProperty.value (node_modules\should\cjs\should.js:305:19)
+      at Context.<anonymous> (api_test\yahoo_api.test.js:58:53)
+
+  23) Verify YaHoo weather data for city 旅顺 test response body, title is not null:
+     TypeError: Cannot read property 'title' of undefined
+      at Context.<anonymous> (api_test\yahoo_api.test.js:62:27)
+
+  24) Verify YaHoo weather data for city 旅顺 test response body, forecast items size is greater or equal than 5:
+     TypeError: Cannot read property 'forecast' of undefined
+      at Context.<anonymous> (api_test\yahoo_api.test.js:66:27)
+
+  25) Verify YaHoo weather data for city 旅顺 test response body, current date:
+     TypeError: Cannot read property 'forecast' of undefined
+      at Context.<anonymous> (api_test\yahoo_api.test.js:70:27)
+
+  26) Verify YaHoo weather data for city 凌海 test response status code is 200:
+     Uncaught TypeError: Cannot read property 'channel' of null
+      at api_test\yahoo_api.test.js:52:68
+      at Request.callback (node_modules\superagent\lib\node\index.js:619:12)
+      at node_modules\superagent\lib\node\index.js:795:18
+      at IncomingMessage.<anonymous> (node_modules\superagent\lib\node\parsers\json.js:16:7)
+      at endReadableNT (_stream_readable.js:921:12)
+
+  27) Verify YaHoo weather data for city 凌海 test response body, count is 1:
+
+      AssertionError: expected 0 to be 1
+      + expected - actual
+
+      -0
+      +1
+      
+      at Assertion.fail (node_modules\should\cjs\should.js:231:17)
+      at Assertion.Object.defineProperty.value (node_modules\should\cjs\should.js:305:19)
+      at Context.<anonymous> (api_test\yahoo_api.test.js:58:53)
+
+  28) Verify YaHoo weather data for city 凌海 test response body, title is not null:
+     TypeError: Cannot read property 'title' of undefined
+      at Context.<anonymous> (api_test\yahoo_api.test.js:62:27)
+
+  29) Verify YaHoo weather data for city 凌海 test response body, forecast items size is greater or equal than 5:
+     TypeError: Cannot read property 'forecast' of undefined
+      at Context.<anonymous> (api_test\yahoo_api.test.js:66:27)
+
+  30) Verify YaHoo weather data for city 凌海 test response body, current date:
+     TypeError: Cannot read property 'forecast' of undefined
+      at Context.<anonymous> (api_test\yahoo_api.test.js:70:27)
+
+  31) Verify YaHoo weather data for city 托县 test response status code is 200:
+     Uncaught TypeError: Cannot read property 'channel' of null
+      at api_test\yahoo_api.test.js:52:68
+      at Request.callback (node_modules\superagent\lib\node\index.js:619:12)
+      at node_modules\superagent\lib\node\index.js:795:18
+      at IncomingMessage.<anonymous> (node_modules\superagent\lib\node\parsers\json.js:16:7)
+      at endReadableNT (_stream_readable.js:921:12)
+
+  32) Verify YaHoo weather data for city 托县 test response body, count is 1:
+
+      AssertionError: expected 0 to be 1
+      + expected - actual
+
+      -0
+      +1
+      
+      at Assertion.fail (node_modules\should\cjs\should.js:231:17)
+      at Assertion.Object.defineProperty.value (node_modules\should\cjs\should.js:305:19)
+      at Context.<anonymous> (api_test\yahoo_api.test.js:58:53)
+
+  33) Verify YaHoo weather data for city 托县 test response body, title is not null:
+     TypeError: Cannot read property 'title' of undefined
+      at Context.<anonymous> (api_test\yahoo_api.test.js:62:27)
+
+  34) Verify YaHoo weather data for city 托县 test response body, forecast items size is greater or equal than 5:
+     TypeError: Cannot read property 'forecast' of undefined
+      at Context.<anonymous> (api_test\yahoo_api.test.js:66:27)
+
+  35) Verify YaHoo weather data for city 托县 test response body, current date:
+     TypeError: Cannot read property 'forecast' of undefined
+      at Context.<anonymous> (api_test\yahoo_api.test.js:70:27)
+
+  36) Verify YaHoo weather data for city 察右后旗 test response status code is 200:
+     Uncaught TypeError: Cannot read property 'channel' of null
+      at api_test\yahoo_api.test.js:52:68
+      at Request.callback (node_modules\superagent\lib\node\index.js:619:12)
+      at node_modules\superagent\lib\node\index.js:795:18
+      at IncomingMessage.<anonymous> (node_modules\superagent\lib\node\parsers\json.js:16:7)
+      at endReadableNT (_stream_readable.js:921:12)
+
+  37) Verify YaHoo weather data for city 察右后旗 test response body, count is 1:
+
+      AssertionError: expected 0 to be 1
+      + expected - actual
+
+      -0
+      +1
+      
+      at Assertion.fail (node_modules\should\cjs\should.js:231:17)
+      at Assertion.Object.defineProperty.value (node_modules\should\cjs\should.js:305:19)
+      at Context.<anonymous> (api_test\yahoo_api.test.js:58:53)
+
+  38) Verify YaHoo weather data for city 察右后旗 test response body, title is not null:
+     TypeError: Cannot read property 'title' of undefined
+      at Context.<anonymous> (api_test\yahoo_api.test.js:62:27)
+
+  39) Verify YaHoo weather data for city 察右后旗 test response body, forecast items size is greater or equal than 5:
+     TypeError: Cannot read property 'forecast' of undefined
+      at Context.<anonymous> (api_test\yahoo_api.test.js:66:27)
+
+  40) Verify YaHoo weather data for city 察右后旗 test response body, current date:
+     TypeError: Cannot read property 'forecast' of undefined
+      at Context.<anonymous> (api_test\yahoo_api.test.js:70:27)
+
+  41) Verify YaHoo weather data for city 舍伯吐 test response status code is 200:
+     Uncaught TypeError: Cannot read property 'channel' of null
+      at api_test\yahoo_api.test.js:52:68
+      at Request.callback (node_modules\superagent\lib\node\index.js:619:12)
+      at node_modules\superagent\lib\node\index.js:795:18
+      at IncomingMessage.<anonymous> (node_modules\superagent\lib\node\parsers\json.js:16:7)
+      at endReadableNT (_stream_readable.js:921:12)
+
+  42) Verify YaHoo weather data for city 舍伯吐 test response body, count is 1:
+
+      AssertionError: expected 0 to be 1
+      + expected - actual
+
+      -0
+      +1
+      
+      at Assertion.fail (node_modules\should\cjs\should.js:231:17)
+      at Assertion.Object.defineProperty.value (node_modules\should\cjs\should.js:305:19)
+      at Context.<anonymous> (api_test\yahoo_api.test.js:58:53)
+
+  43) Verify YaHoo weather data for city 舍伯吐 test response body, title is not null:
+     TypeError: Cannot read property 'title' of undefined
+      at Context.<anonymous> (api_test\yahoo_api.test.js:62:27)
+
+  44) Verify YaHoo weather data for city 舍伯吐 test response body, forecast items size is greater or equal than 5:
+     TypeError: Cannot read property 'forecast' of undefined
+      at Context.<anonymous> (api_test\yahoo_api.test.js:66:27)
+
+  45) Verify YaHoo weather data for city 舍伯吐 test response body, current date:
+     TypeError: Cannot read property 'forecast' of undefined
+      at Context.<anonymous> (api_test\yahoo_api.test.js:70:27)
+
+
+

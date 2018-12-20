@@ -1,0 +1,14 @@
+{
+    "name": "nodejs_project_06",
+    "version": "1.0.0",
+    "description": "Nodejs demo project for promise.",
+    "main": "app.js",
+    "scripts": {
+        "test": "make test"
+    },
+    "author": "vieira",
+    "license": "ISC",
+    "dependencies": {
+        "q": "^1.4.1"
+    }
+}

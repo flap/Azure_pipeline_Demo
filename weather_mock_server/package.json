@@ -1,0 +1,14 @@
+{
+    "name": "mock_api_project",
+    "version": "1.0.0",
+    "description": "Mock APIs response data.",
+    "main": "app.js",
+    "scripts": {
+        "test": "make test"
+    },
+    "author": "vieira",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.14.0"
+    }
+}

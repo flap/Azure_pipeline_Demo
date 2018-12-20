@@ -1,0 +1,18 @@
+{
+    "name": "nodejs_project_02",
+    "version": "1.0.0",
+    "description": "Nodejs demo project refer to GitHub lesson5.",
+    "main": "app.js",
+    "scripts": {
+        "test": "make test"
+    },
+    "author": "vieira",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.14.0",
+        "cheerio": "^0.22.0",
+        "eventproxy": "^0.3.5",
+        "superagent": "^2.3.0",
+        "async": "^2.1.4"
+    }
+}

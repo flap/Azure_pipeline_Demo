@@ -1,0 +1,18 @@
+# IDEA files
+.idea/
+out/
+*.iml
+
+# local external modules
+node_modules/
+nodejs_lessons/*/node_modules/
+weather_mock_server/node_modules/
+weather_api_test/node_modules/
+web_socket_demo/node_modules/
+
+# vue
+vue_demos/
+#vue_lessons/*/build/
+vue_lessons/*/node_modules/
+
+#.gitignore
